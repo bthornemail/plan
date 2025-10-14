@@ -2,9 +2,9 @@
 ## Independent Researcher - Topological Consensus & Autonomous AI
 
 **Location**: Los Angeles, California  
-**Email**: [To be added]  
-**GitHub**: [To be added]  
-**LinkedIn**: [To be added]  
+**Email**: bthornemial@gmail.com 
+**GitHub**: https://github.com/bthornemail  
+**LinkedIn**: https://www.linkedin.com/in/brian-thorne-5b8a96112/
 
 ---
 

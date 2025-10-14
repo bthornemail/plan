@@ -151,10 +151,10 @@ Brian has developed a novel framework for sovereign autonomous AI that combines 
 ## Contact Information
 
 **Primary Contact**: Brian James Thorne  
-**Email**: [To be added]  
+**Email**: bthornemail@gmaial.com 
 **Location**: Los Angeles, California  
-**GitHub**: [To be added]  
-**LinkedIn**: [To be added]  
+**GitHub**: https://github.com/bthornemail  
+**LinkedIn**: https://www.linkedin.com/in/brian-thorne-5b8a96112/  
 
 ---
 

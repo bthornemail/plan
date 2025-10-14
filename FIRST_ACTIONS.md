@@ -9,7 +9,7 @@ This document outlines the specific actions to take in your first 2-hour work se
 
 #### 15 minutes: Create GitHub Account
 **Action**: Go to github.com and create account
-- **Username**: `BrianThorne` (or similar if taken)
+- **Username**: bthornemail
 - **Email**: Use your new professional email
 - **Profile**: Add your name and location (Los Angeles, CA)
 - **Bio**: "Independent Researcher - Topological Consensus & Autonomous AI"

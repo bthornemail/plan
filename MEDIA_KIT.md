@@ -74,7 +74,7 @@ Currently, he is preparing academic papers for arXiv submission and seeking coll
 
 *Mobile research laboratory in Los Angeles produces novel approach to distributed systems and cooperative economics*
 
-LOS ANGELES, CA - [Date] - Brian James Thorne, an independent researcher working from a solar-powered van in Los Angeles, has developed a novel consensus protocol using topological mathematics that could revolutionize distributed systems and cooperative economics.
+LOS ANGELES, CA - OCT 2025 - Brian James Thorne, an independent researcher working from a solar-powered van in Los Angeles, has developed a novel consensus protocol using topological mathematics that could revolutionize distributed systems and cooperative economics.
 
 The work represents the first implementation of Fano plane-based consensus mechanisms, which achieve Byzantine fault tolerance using geometric invariants rather than computational work. This approach has applications in blockchain technology, cooperative governance, and autonomous AI systems.
 
@@ -92,9 +92,9 @@ The research has potential applications in:
 
 Thorne is actively seeking academic collaboration and funding to advance this work for public benefit. He is available for interviews and technical demonstrations.
 
-**Contact**: [Email]  
-**GitHub**: [Link]  
-**Technical Summary**: [Link]  
+**Contact**: bthornemail@gmaiil.com  
+**GitHub**: https://github.com/bthornemail  
+**Technical Summary**: https://github.com/bthornemail/plan/EXECUTIVE_SUMMARY.md  
 
 ---
 
